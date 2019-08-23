@@ -5,7 +5,8 @@ this project is composed of two files plus a README
 - index.html ( html code )
 - style.css ( style code )
 
-Self reflection: This project is not made exactly like the Google page but contains the most important parts. With this project i start learning basic HTML + CSS -I will keep practicing to improve on the frontend.
+Self reflection: This project is not made exactly like the Google page but contains the most important parts. With this project i start learning basic HTML + CSS -
+Being aware that this is just the beginning of my career i will keep practicing to improve on the frontend while moving forward to the next step JS!
 
 
 
