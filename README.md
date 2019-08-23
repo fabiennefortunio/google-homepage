@@ -10,6 +10,7 @@ Being aware that this is just the beginning of my career i will keep practicing 
 
 
 
+
  From The Odin Project's [curriculum](https://rawcdn.githack.com/fabiennefortunio/google-homepage/e94bc66f329412324f6dc8f60fbbc255b7590510/index.html)
  
  
