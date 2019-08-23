@@ -1,8 +1,11 @@
 My first Odin's Proyect. GOOGLE HOME PAGE
-On this repository you will find 3 files:
+
+this project is composed of two files plus a README
+
 - index.html ( html code )
 - style.css ( style code )
-- README
+
+Self reflection: This project is not made exactly like the Google page but contains the most important parts. With this project i start learning basic HTML + CSS -I will keep practicing to improve on the frontend.
 
 
 
