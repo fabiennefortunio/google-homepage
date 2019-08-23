@@ -6,6 +6,7 @@ On this repository you will find 3 files:
 
 
 
- From The Odin Project's [curriculum]https://rawcdn.githack.com/fabiennefortunio/google-homepage/e94bc66f329412324f6dc8f60fbbc255b7590510/index.html
+ From The Odin Project's [curriculum] (https://rawcdn.githack.com/fabiennefortunio/google-homepage/e94bc66f329412324f6dc8f60fbbc255b7590510/index.html)
+ 
  
  
